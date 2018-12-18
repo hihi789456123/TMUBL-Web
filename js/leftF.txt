@@ -1,0 +1,199 @@
+
+
+                                                                                                                      ^^^^^.....^^^^^                                                                   
+                                                                                                       ^^^--:://++++o+ossysyyyyyssssoo/-.^^                                                             
+                                                                                                  ^.-:/osyhhhhdhhhhhhyyyyyyyhhhhyyyhhhhdhso/.^                                                          
+                                                                                              ^.-/oyhhdddddhhhhyyyyyyyssssssysyyyyyyyyyyhhdhyo:.^                                                       
+                                                                                          ^^-+oyyhddhhhyyyysyssssssssssssssssssssssssssssyyhdddys+:.^                                                   
+                                                                                    ^.:/.-+sydddhhyyyssssssssssssssssssssssssssssssssssssssyyhhddddy+.                                                  
+                                                                                  ^-oyhhshdmddhyyssssssssssssssssssssssssssssyyssssssssssssssssyddddho-                                                 
+                                                                                ^:ohdddmmdhyyssssssssssssssssssssssssssssssssyyyssssssssssssssssyyddmds:^                                               
+                                                                              ^:shmmmddhyyyssssssssssssssssssssssssssssssssssssyysssssssssssssssssshdmdy/^                                              
+                                                                            ^-+hmNmdhyyssssssssssssssssssssssssssssssssssssssssyyyssssssssssssssssssyhmdy/                                              
+                                                                          ^./ymmmhyyysssssssssssssssssssssssssssssssssssssssssssyyssssssssssssssssssssymmy:^                                            
+                                                                          .+hmmhyyyssssssssssssssssssssssssssssssssssssssssssssssyysssssssssssssssssssshNmh+                                            
+                                                                         .ommdyyysssssssssssssssssssssssssssssssssssssssssssssssyyhysssssssssssssssssssshmmh/^                                          
+                                                                        -ymmhyyyssssssssssssssssssssssssssssssssssssssssssssssssssyysssssssssyyyssssssssydmmh:                                          
+                                                                      ^-hNdyyyysssssssssssssssssssssssssssssssssssssssssssssssssssyhysssssssssyyssssssssyhhmmh-                                         
+                                                                      .yNdyyyssysssssssssssssssssssssssssssssssssssssssssssssssssssyysssssssssyhyssssssssyhdNmh.                                        
+                                                                     ^oNmyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyysssssssssyysssssssssyhmmmy^                                       
+                                                                    ^ommhysssssssssssssssssssssssssssssssssssssssssssssssssssssssssyhysssssssssyhysssssssssydmmd+^                                      
+                                                                   ^/mNmyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyssssssssssyhysssssssssydmdm:                                      
+                                                                  ^/dNNhysssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyhysssssssssshyssssssssssymddh.                                     
+                                                                  :yNNdyysssssssssssssssssssssssssssssssssssssssssssssssssssssssssssshyssssssssssyhysssssssssshddmo^                                    
+                                                                 .odNmyysssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyyssssssssssyhyssssssssssyyddd:                                    
+                                                                ^+dNmyyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssyhsssssssssssyhyssssssssssyydms^                                   
+                                                               ^/yNNyssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssysyhsssssssssssshhysssssssssssydm:                                   
+                                                               -ydNhssssssssssssssssssssssyyssssssssssssssssssssssssssssssssssssssssyyhysssssssssssyhyssssssssssssydy.                                  
+                                                              ^+hmhyssssssssssssssssssssssyyyssssssssssssssssssssssssssssssssssssssssshyssssssssssssyhsssssssssssssyd+^                                 
+                                                              -oddysssyssssssssssssssssssssyyysssssssssssssssssssssssssssssssssssssssyhyssssssssssssyhysssssssssssssyd+                                 
+                                                             ^-sdhsssyhyssssssssssssssssssssyyyssssssssssssssssssssssssssssssssssssssyhhyssssssssssyshyysssssssssssssyd/^                               
+                                                             .odhyssyhyysssssssssssssssssssssyyyssssyyyyssyssssssssssssssssssssssssssyddyssssssssssssydyysssssssssssysyd/^                              
+                                                            ^+dhyssyhhyssssssssssssssssssssssyyyssssyyyysssssssssssssssssssssssssssssyddhssssssssssssyhhysssssssssssssyhd+^                             
+                                                           ^:ddyssyhhyysssssssssssssssssssssssyyssssysyhyssssssssssssssssssssssssssssyddhyssssssssssssydyssssssssssysssyhdo^                            
+                                                           -ydyysshdyyssssssssssssssssssssssssyysssssssyhysssssssssssssssssssssssssssyhddysssssssssssyydyssssssssssssssssyds.                           
+                                                          .ydysssyddyyssssssssssssssssssssssssyhyssssssyhyyyssyssssssssssssssssssssssydddhyssssssssssyhhhssssssyyyysssssssydd/^                         
+                                                         .odhsssyhmdysssssssssssssssssssssssssyhyssssssshhyyyssssssssssssssssssssssssydddhyssssssssssyyhdysssssyydhhyssssssydd+^                        
+                                                        ^+ddysssyddmdyssssssssssssssssssssssssyhysssssssyhysyysssssssssssssssssssssssymNddhyssssssssssyydhyssssyydhmdyssssssyhdy-                       
+                                                       ^:ddysssyhmddmyssssssssssssssssssssssssyhysssssssyhysyhysssssssssssssssssssssyhmNdddhyssssssssssyhdyssssyydhdmhdyyssssyyhd+^                     
+                                                      .-ydyssssydddhmdysssssssssssssssssssssssyhysssssssyhysyyysssssssssssssssssssssydmNmdmdysssssssssssymhssssyhhhdmhmmdyssssssyds-                    
+                                                     .:odhysssshdddydmysssssssssssssssssssssssyhysssssssydyssyhyssssssssssssssssssssydmmdmmmmyssssssssssyhdysssyydhhmddmdyysysssyyhs.                   
+                                                    ^-+hdyysssyhdhdyhmhsssssssssssssssssssssssyhysssssssyhhssyhysssssssssssssssssssshdmmdmdmNdyssssssssssymhssssydhymmddh:+yysssssshs.                  
+                                                   ^./ddyssssyydhhmyymdyssssssssssssssssssssssyhysssssssyhhssyhysssssssssssssssssssyddmmdmdmdmmhyssssssssydmyssyydhydmdhdo.oysssssssys.                 
+                                                    -ymhysssssydyymyydmyssssssssssssssssssssssyhysssssssydhssyhysssssssssssssssssssyddmmhmdmdmmmmhysssssyshdhssyymhydmhhds^.syssssssyhy-                
+                                                   ^odmysssssyhdyydhshdhssssssssssssssssssssssyhysssssssydyssyhyssssssssssssssssysyhdhdddddhhmdmdmdhysssssyddysshdhyhmhydy. -yyysssssshs^               
+                                                  ^/hddyssssssydyydhshmhyssssssssssssssssssssyhysssssssyhdysyyhysssssssssysyyyyhhdmmNNmmNmmmdmmmdhmmdyysysyhdhssydhyhmhhdh:  -yyssssssyh/               
+                                                  .shdhyssssssydyyydyyddhysssssssssssssssssssyhysssssssydhysyhysssssyyyyhhddmmmmmmmmmmmmmmmmmmmNNmmNmdmdhhhhhdysyysyymdhdh:   :hyssssssys.              
+                                                  -hhdyssssssyshhyydyyhddysssssssssssssssssssyhyssssssyddysyhyysyyhhhdmmmmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmNNmddhhyyydmdhh:   ^oyssssssyh-              
+                                                 ^/hhhyssssssssyhhsydyydhhssssssssssssssssssyhhssssssyhhyssyhyyhdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddmdhh-    :hysssssyy-              
+                                                 ^shyyysssssssssyyyyhyyhhdyssssssssssyyyysssyhyssssyyhhysyhhhhdNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddys.    ^yyyysssys.              
+                                                 ^+yyssssyysssssssssyhydyhysyssssssyyyyysssshhsssssyhhyyydmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNh/.    ^shyysssy+^              
+                                                  /yyssssyhysssssssssyhdyhyssssssyhdhysssssyhyssssyhhydmmdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNmmho:^ ^oyhysyyy/^              
+                                                  -yysssssyhysssssyssyhhyhyssssyhdhyysssssyhyysyhddhyhdmddmmmmdmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmho+hmhysyyo^               
+                                                  ^+yyhyssyydyssssssyhhyyyysssyhdyyssssssshhyhhmmdhhddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdyyyo/.                
+                                                   ^:shdyshdddhssssyddyyyyssshdhyysssssyyhdddmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddy:^^                
+                                                     ./shhhdmmmdhyyymhssyysyhmhysssssyyhddmmNNNmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmdhyo:^              
+                                                       ^.:shhdhhdddddysssyyhmhyyssyhdddmmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdy+/+/^             
+                                                          ^:hhyhhhmmdhyyyyhmdysyyddddmmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdh+^^              
+                                                            -shyshmhyyyyyhddyhhdmmddmNmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmy/.^               
+                                                             ^+hhddyssyyhhmddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmo^                
+                                                              ^+mmysyyhhydmdmNmmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNh-                 
+                                                              .ommyyyhhhdNmmmmmmmmddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNh-                  
+                                                             ^+hhmhyyddddNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmmmmmmmNNmmmNNd:^                  
+                                                            ^+hyydhhdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNmmmmmmmmmmmNmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMNNNd:^                   
+                                                           ^/hhyhhyhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMmdy.                    
+                                                         ^.:odyyyyydmddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmMMMm/-..                    
+                                                        ^^^:+hysyyyhdhdmmmmmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNMNMh-^                      
+                                                          ^/:sysyddhNmmmNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMNMNMNs.                      
+                                                          ./-+ysyyhdmNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNMMMMMN+^                      
+                                                          ..^:syyhmmNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNMMNNNNs^                      
+                                                          ^^ ^+yymNNmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNMNNNNNNNNNmNNd.                      
+                                                             ^:ymNmmmNdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNMNNNNNmmmmmNMNmNm:                      
+                                                             .ymNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNMMNNNmmmmmmmmmNNmNNy^                     
+                                                             -dmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmmmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNmmmmmmmmmmmmNNNNNd.                     
+                                                           ^:hmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNMNNmmmmmmmmmmmmmmmmNNmNm:                     
+                                                          ^:dNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNmmmmmmmmmmmmmmmmmmmNNNNN+^                    
+                                                         ^/dNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmNNmmmmmmdmmmmmmmmmmmmmmmNNNNs^                    
+                                                        ^/dNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMmNh::                   
+                                                       ^/hNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmMNNmss^                  
+                                                      ^:dNMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMNNd/^                  
+                                                     ^:hNMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMNNy.                   
+                                                     :yNMNmmmdmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmMNNs^                   
+                                                   ^:hmNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMNm-                   
+                                                  ^-hmNMNmddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMNo^                  
+                                                 ^-ymNMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmMMNd-                  
+                                                 -hmNMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNms^                 
+                                                -ymmNMmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNh-^                
+                                               .smmNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNdo^                
+                                              ^smmNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNmh-                
+                                             .sdmmMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmNNNd/                
+                                            ^smddNMmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmNNms^               
+                                            .hddmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmNNd-               
+                                           ^:yhyyysyhmmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmNmN+^              
+                                           .oyyoooooossyhmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh.              
+                                          ^+hyooooooooooosyhhmNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNm:^             
+                                         ^:shsooooooooooooooossyhdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNdhydmy.             
+                                         -oysooooooooooooooooooooossyhddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddddddddddmmmmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddddddhdhhhhyyssoooymms-            
+                                        ^/hyoooooooooooooooooooooooooooossyhdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddhhyyysysssssssssssooooooooooooooooooooosmddo.           
+                                       ^:sssyysooooooooooooooooooooooooooooooossyyhdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdddddddhhhhyyyysssssooooooooooooooooooooooooooooooooooooooooooooyddho.          
+                                       -osooosysssoooooooooooooooooooooooooooooooooooosysyhdmmmmmmddmmmdmmmddddhhyyyysssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooydddy/^         
+                                      .+sooooooosyssooooooooooooooooooooooooooooooooooooooooosssssssssssossooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdddyy:^        
+                                     ^/sooooooooooossssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohddhys^        
+                                    ^/oooooooooooooooossssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdmdyh-        
+                                   ^-oooooooooooooooooooossssssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohmdyh/        
+                                  ^-oooooooooooooooooooooooooossssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooossssssssysyysyysoooosmmyhy.       
+                                  -+sooooooooooooooooooooooooooooooosoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooossssssssyyyysyssyssysssssssooooooooooooodNhsh:       
+                                 ./ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooossssyyyyyyyyysssssoooooooooooooooooooooooooooooooooooooymmsh+       
+                                ^/ooooooooooooooooooooooooooooooooooooooooooosssssssssssooooooooooooooooooooooooooooooossssssyyyyyssssssooooooooooooooooooooooooooooooooooooooooooooooooooosmmyyo^      
+                               ^/ssooooooooooooooooooooooooooooooooooooooooooooooooooosssssssssysssssssysssysyysyyyyssssssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodNdhy.      
+                              ^-ososyysoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooymdhh.      
+                              .+sooooossyssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosmmdm/      
+                             ^+sooooooooosyyssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodmdNy^     
+                            ^/sooooooooooooosyyysooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooymymm-     
+                            -ooooooooooooooooooosssssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosmdmNs^    
+                           .osoooooooooooooooooooooosyyysoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosddyNd/    
+                         ^-+soooooooooooooooooooooooooosyyyysoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdmhNNh:   
+                         -yhdysoooooooooooooooooooooooooooosssyyssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosssyyyyydmdNNy:   
+                        ^/hsshdhsooooooooooooooooooooooooooooooosssssssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosssssssyyyyyyyyyyssoooosddmNy^   
+                        -yhoooosyhyysooooooooooooooooooooooooooooooossyyysssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosossssyyyyyyyyyysssssooooooooooooooooohddNd-   
+                       ^odyooooooosyhhsooooooooooooooooooooooooooooooooooossyyysooooooooooooooooooooooooooooooooosssssssssssssssssssssssssssyyssyyyyyyyysssysssssooooooooooooooooooooooooooooooshhNm:   
+                      ^:yhooooooooooosyhyysoooooooooooooooooooooooooooooooooooossssooooossssssssssyssssyssyyssssssssssssoosssssssssssssssssssosooooooooooooooooooooooooooooooooooooooooooooooooshhNmo   
+                      -shyoooooooooooooosyhhssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooyhNmy.  
+                     -odyooooooooooooooooooosyhysoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohNdo-  
+                    .ymdsoooooooooooooooooooooosyyhyysoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdmh-^  
+                   .oNmsooooooooooooooooooooooooooosyyyyyssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooossssyyyhydNmm:^  
+                  ^+dNyoooooooooooooooooooooooooooooooossyyhyyssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooossyyyyyyhhhhhhyyyyyyssdmhh:   
+                 ^:hNhoooooooooooooooooooooooooooooooooooooossyhhyysooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosssssysyyyhhhhhhyyyyysssssooooooooooymdyh:   
+                ^:yNdsooooooooooooooooooooooooooooooooooooooooooossyhyyyssooooooooooooooooooooooooooooooooooooooooooooooooooooooooossossssssssyyyyyyhhhhhhhyyyysysssssooooooooooooooooooooooooohmyos-   
+                .omNyoooooooooooooooooooooooooooooooooooooooooooooooooossyyyhyyyyssssooooooooooooooooooooossssssssssyysyyyyyyyyhhhyyyyyyyyyssssssssoooooooooooooooooooooooooooooooooooooooooooymy+:/^   
+               .+hNdooooooooooooooooooooooooooooooooooooooooooooooooooooooooossssyyyhyyyyysssssssssyyhyyyyyyyyysysssssssssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooydhs:^^    
+              ^/hmmsoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosssssssssssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosddho.      
+             ^:ydmyoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdmdh+^      
+             -ydmhoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooshdmy-       
+            .odddsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooossydo^       
+           ^oddmsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdh:        
+          ^:hdmyoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohds.        
+          -ydhhsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosmh:^        
+         .sdhdyooooooooooooooooooooooooooooooooooooooooooooooooosyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohms^         
+        ^+mddhooooooooooooooooooooooooooooooooooooooooooooooooshdyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooymd:^         
+       ^:ddhmsooooooooooooooooooooooooooooooooooooooooooooooyhmhsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohds.          
+      ^:ydyddsoooooooooooooooooooooooooooooooooooooooooooosdNNhooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooymh:           
+      .omyydsooooooooooooooooooooooooooooooooooooooooooooymNmdsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdNs.           
+     ^:hdshhsoooooooooooooooooooooooooooooooooooooooooshmNmmdsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooymd-            
+     -ydysdhooooooooooooooooooooooooooooooooooooooooosdNmmdyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosdm+^            
+    ^+dhsydsoooooooooooooooooooooooooooooooooooooooydmmmmhsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooyds.             
+    -ddsshhooooooooooooooooooooooooooooooooooooooydmmmddyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosh+^              
+   ^ommhydyooooooooooooooooooooooooooooooooooosyhdmmdmdsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooyo.               
+   .hNNmdmyooooooooooooooooooooooooooooooooossyddhdhmmdsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosh/                
+   .smNmNNNhsoooooooooooooooooooooooooooooosydmdmddmmmmyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohy.                
+  ^/dmmmmmNNNdhsoooooooooooooooooooooooooosymNy+mmmNNmNhsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosh:^                
+ ^+yodmmmmNmNNNNmdyyssoooooooooooooooooosydNd/.^sNmNNmNdhyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosho.                 
+ :y::ydmmNNNNNmmNNNNmmdmhyyyyyyhhhhhhdddmNNd:^  :dNNmmNNmhsoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohh:                  
+ ^..sdmmNNmmmmmmmNmmNNNNNNNmmNNNmmNmmmmNNNy-    ^smNmmmNNmhooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosds.                  
+   .ydmNNmmmmmmmmmmmmmmmNNNmmmmmmmmmmmNNm+.      :hNmmmNmNmhoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohh:^                  
+   -ymmmmmmmmmmmNmmmmmmmmmmmmmmmmmmmmNNh:        ^smNmmNNmNNsoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosds^                   
+  ^ommmmmmmNmmmmNNmmmNNmmmmmmmmmmmmNNmo.          /hmNmmNmmNmyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooohh-                    
+   /mNmmNNNNNmmNNmmmmNmmmNmmmmmmmmNNh:^           -hdmNmNmmmNmhooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosd+^                    
+   .ddsshmhsydmmmNmdmmmmmmmmmmmmmNmo-^            ^/dmNNmmmmmNmhsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosyds.                     
+   .hh/:smy/://++sssyyhhddddmmmmmh+.                :hmNNNmmmmmdhyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosmmm/^                     
+   .hd/:sdhy/:::+ss+yooossys+::/:.^                  /hmNNmmmmmmddhyooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosNNd-                      
+   .ym+:oy/oyo+oyy/...-::::-^                         -yNNNmmmmmmmmmhsoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooyNMd:                      
+   ^smh/+o^^.:++:.^                                    -yNMNmmmNmmmNNmdysooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosyhdmNMN+.                      
+    /hhss/^                                             -hMMMNNNNmmmmNNmdhsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosshysshdNNNmNNNd-                       
+     -/::.                                               .hNMMMNNNmmmmmmmNNdhsssooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosydmNNmmNmNNmmmmNNh:^                      
+      ^                                                   -dMNMMMMNNmmmmmmmNmmmmddhhdhssssoooooooooooooooooooooooooooooooooooooooooooooooooooooooooossssyyhhmNNMMNNNNmmmmmmmmNmo^^                      
+                                                           +NMMMMMMMNmNmmmmmmmmmmmmmmNmmmmmmmdddhhhyhyyysysssssoooooooooooooooooooooooooossssyyyhhddddmmNNNNMMNNNmmmmmmmmmmmNMNo^                       
+                                                           -dMMMMMMMNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmNmmmmmmmmmmddddddddddddddddmmmmmmmmmNNNNNNNMNNNNNmmmmmmmmmmmmmmNNmo                        
+                                                            :mMMMMMMMNmmmmmmmmmmmmmmmmmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmmmmmmmmmmmmmmmmmmmmmmNNNmmmmmmmmmmmmmmmNNNNNMNm/                        
+                                                            ^/mMMMMMMMMNmmNmmmmmmmmmmmmmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmmmmmmmmmmmmmNNNNMMNNNMNd-                        
+                                                             ^sNMMMMMMMMMNNNNNmmNmmmmmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNMMMMMMMMMNNNmo^                        
+                                                              /dNMMMMMMMMMMMMMMMMMNNNNmmmmmmmmmmNmmmmmNmmmmmmNmmmmmmmmmmmmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNMMMMMMMMMMMMNMNh-                         
+                                                              ^ymmNNNMMMMMMMMMMMMMMMMNNNMNMNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmmmmmmmmdmmmmmmmmmmmmmmmmmmNNNMMMMMMMMMMMMMMMMNMds.                         
+                                                               :hhymmNMMMMMMMMMMMMMMMMMMMMMMMMMMNMNNmmmNNmmmmmNmNmmmmmmmmmmNNmmmmmmmmmmmmmmmmmmmmmmNNMMMMMMMMMMMMMMMMMMMMNMNh/^                         
+                                                               ^smh/+dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMNNNNNmddmmmmmmmmNmNmmmmmmmmmNmNNmNNNNNMMMMMMMMMMMMMMMMMMMMMMMNNdy-                          
+                                                                :dm+:/hNNMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMd+--://///yNNNNNNNNMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNd/^^                         
+                                                                ^smy/::+ymNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMd:        .dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmhhdNh/^                          
+                                                                 .hms::::/ohdmmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMh.         :NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmddyyo++//dmy-                           
+                                                                  +mh/::::::///+syhmNMMNNMMMMMMMMMMMMMMMMMMMMNNNy.         ^sMMMMMMMMMMMMMMMMMMMMMMMMNNMNNNmdhs+//::::::+mmo^                           
+                                                                  .ymo:::::::::::::/+syyhddNmNNNNMMNMMNMNNNNmmdds^          .shmNMMMMMMMMMMMMNNNmmmdhhyso+++/:::::::::::+mm/^                           
+                                                                   /mh/:::::::::::::::::://+++ooosyssyyyoooo+/+hs^           ^:ssymddhhhhyyhssoo+///::::::::::::::::::::omh.                            
+                                                                   ^hmy:::::::::::::::::::::::::::::::::::::::/d+^            -/o/hs/:::::::::::::::::::::::::::::::::::sNy.                            
+                                                                    :dm+::::::::::::::::::::::::::::::::::::::/h+^            ./s/od+:::::::::::::::::::::::::::::::::::sNo^                            
+                                                                    ^omy/:::::::::::::::::::::::::::::::::::::/h+^            ^-/o/hs:::::::::::::::::::::::::::::::::::yN/^                            
+                                                                     .hms::::::::::::::::::::::::::::::::::::::sy.             -+s/sh/::::::::::::::::::::::::::::::::::hN/                             
+                                                                      /mdo:::::::::::::::::::::::::::::::::::::/ho^            ^/ss/ys::::::::::::::::::::::::::::::::::yd:^                            
+                                                                      ^smh/:::::::::::::::::::::::::::::::::::::+h:            ^:oy/sh/:::::::::::::::::::::::::::::::::sh-                             
+                                                                       .hms:::::::::::::::::::::::::::::::::::::/hs^            -oso+d+:::::::::::::::::::::::::::::::::sy.                             
+                                                                        /md+:::::::::::::::::::::::::::::::::::::+h/            ^+oy/hh/::::::::::::::::::::::::::::::::sy.                             
+                                                                        ^ymy/:::::::::::::::::::::::::::::::::::::oh-          ^^:osssd+::::::::::::::::::::::::::::::::+h:                             
+                                                                         .hms:::::::::::::::::::::::::::::::::::::/ho^           ^+ss+dy:::::::::::::::::::::::::::::::::so^                            
+                                                                          :dds:::::::::::::::::::::::::::::::::::::+h:            /sy+sd/::::::::::::::::::::::::::::::::oh-                            
+                                                                          ^smdo:::::::::::::::::::::::::::::::::::::yy^           .osy+ds::::::::::::::::::::::::::::::::+h+                            
+                                                                           .hmd+::::::::::::::::::::::::::::::::::::/ho^           :ysoyd/:::::::::::::::::::::::::::::::/hs^                           
+                                                                            -hmh/::::::::::::::::::::::::::::::::::::/h+^          ^ssyods:::::::::::::::::::::::::::::::/hs^                           
+                                                                            ^/ddy/::::::::::::::::::::::::::::::::::::+ho^          :hysyh/::::::::::::::::::::::::::::::/yy^                           
+                                                                             ^sdhs:::::::::::::::::::::::::::::::::::::od:          ^/yhodo:::::::::::::::::::::::::::::::hy^                           
+                                                                              -ydds::::::::::::::::::::::::::::::::::::+d/^          .yyyhh/:::::::::::::::::::::::::::::/hs^                           
+                                                                              ^/dddo:::::::::::::::::::::::::::::::::::/ho^           .ydydo:::::::::::::::::::::::::::::/ho^                           
+                                                                               ^odhho::::::::::::::::::::::::::::::::::/yy.            /hyyd/::::::::::::::::::::::::::::/ys^                           
+                                                                                .yddd+::/:::::::::::::::::::::::::::::::sy.            ^odydy::::::::::::::::::::::::::::/yo^                           
