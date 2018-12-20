@@ -23,7 +23,6 @@
           transform: translate(-50%, 0%);
   font-family: SimSun;
   color: white;
-  font: 72px;
   white-space: nowrap;
   text-shadow: 0 2px 2px rgba(61, 172, 227, 0.9);
 }
@@ -35,9 +34,9 @@
   -webkit-transform: translate(-50%, 0%);
           transform: translate(-50%, 0%);
   color: white;
-  font: 4px/3px monospace;
+  font: 4px/2.5px monospace;
   white-space: pre;
-  text-shadow: 0 2px 2px rgba(61, 172, 227, 0.9);	
+
 	
 }
 
@@ -48,10 +47,11 @@
   -webkit-transform: translate(-50%, 0%);
           transform: translate(-50%, 0%);
   color: white;
-  font: 4px/3px monospace;
+  font: 4px/2.5px monospace;
   white-space: pre;
-  text-shadow: 0 2px 2px rgba(61, 172, 227, 0.9);		
+	
 }
+
 
 /* this stuff is probably already in your styles */
 
