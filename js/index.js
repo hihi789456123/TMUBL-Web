@@ -70,7 +70,7 @@ var Messenger = function(el) {
       }
     }
 
-    $(el).html(message);
+    $(el).html(`<a href="rivalry.html">` + message + `</a>`);
 
     if (do_cycles === true) {
       setTimeout(m.animateFadeBuffer, 20);

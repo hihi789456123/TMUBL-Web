@@ -15,6 +15,11 @@
     height: 100%;
 }
 
+a {
+	color: white;
+	text-decoration: none;
+}
+
 #messenger {
   position: absolute;
   top: 5%;
@@ -56,9 +61,7 @@
 /* this stuff is probably already in your styles */
 
 
-* {
-    box-sizing: border-box;
-}
+
 
 html, body {
     height: 100%;
